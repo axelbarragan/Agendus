@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+	  <meta charset="UTF-8">
+	  <title>Agendus</title>
+  </head>
+  <body>
+	  <div>Este es el inicio.</div>
+  </body>
+</html>
